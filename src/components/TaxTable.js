@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { useReactTable, getCoreRowModel, flexRender } from '@tanstack/react-table';
-import { Edit2, User, Calendar, MapPin, Users, Plus, Filter, X, Search, Heart } from 'lucide-react';
+import { Edit2, User, Calendar, MapPin, Users, Filter, X, Search, Heart } from 'lucide-react';
 import './styles/TaxTable.css';
 
 const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
