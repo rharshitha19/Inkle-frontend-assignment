@@ -73,13 +73,9 @@ const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
       cell: info => (
         <div className="name-cell">
           <div className="name-primary">{info.getValue() || 'Unknown'}</div>
-          <div className="name-secondary">
-            <Users size={12} />
-            <span>Friends</span>
-          </div>
         </div>
       ),
-      size: 220,
+      size: 180, // Reduced from 220
     },
     {
       accessorKey: 'gender',
