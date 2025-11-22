@@ -50,7 +50,6 @@ const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
       const matchesCountry = !filters.country || 
         (item.country && item.country.toLowerCase().includes(filters.country.toLowerCase()));
       
-      // Fixed gender filter - exact match (case-insensitive)
       const matchesGender = !filters.gender || 
         (item.gender && item.gender.toLowerCase() === filters.gender.toLowerCase());
       
@@ -75,7 +74,7 @@ const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
           <div className="name-primary">{info.getValue() || 'Unknown'}</div>
         </div>
       ),
-      size: 180, // Reduced from 220
+      size: 180,
     },
     {
       accessorKey: 'gender',
@@ -207,10 +206,6 @@ const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
             <Filter size={16} />
             <span>Filter</span>
             {hasActiveFilters && <span className="filter-indicator"></span>}
-          </button>
-          <button className="action-button primary" onClick={onAddNew}>
-            <Plus size={16} />
-            <span>Add New Customer</span>
           </button>
         </div>
       </div>
@@ -348,11 +343,7 @@ const TaxTable = ({ data, onEdit, onAddNew, countries }) => {
               <>
                 <Users size={48} />
                 <h3>No records found</h3>
-                <p>Get started by adding your first customer record</p>
-                <button className="add-first-button" onClick={onAddNew}>
-                  <Plus size={16} />
-                  Add First Customer
-                </button>
+                <p>There are no customer records to display</p>
               </>
             )}
           </div>
