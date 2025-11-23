@@ -27,6 +27,10 @@ We've used the latest and most reliable technologies to ensure a smooth experien
 - **Styling**: Custom CSS - A unique, modern design created just for this app
 - **API**: MockAPI - Simulates a real backend for testing and demonstration
 
+## See It Live
+
+Live Demo: [https://customer-management-system1.netlify.app/](https://customer-management-system1.netlify.app/)
+
 ## Get Started in Minutes
 
 ### For Development
@@ -49,9 +53,6 @@ We've used the latest and most reliable technologies to ensure a smooth experien
 
 4. **Open your browser and visit** `http://localhost:3000`
 
-## See It Live
-
-Live Demo: [https://customer-management-system1.netlify.app/](https://customer-management-system1.netlify.app/)
 
 Want to deploy your own version? Run:
 ```bash
