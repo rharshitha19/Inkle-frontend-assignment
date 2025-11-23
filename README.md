@@ -4,17 +4,17 @@ A modern, responsive React application that helps you effortlessly manage your c
 
 ## Features That Make Your Life Easier
 
-**Customer Data Table**: A clean, well-organized display that shows all your customer information at a glance. No more messy spreadsheets or hard-to-read lists.
+- **Customer Data Table**: A clean, well-organized display that shows all your customer information at a glance. No more messy spreadsheets or hard-to-read lists.
 
-**Smart Filtering**: Find exactly what you're looking for by filtering customers by name, gender, or country. Perfect for when you need to quickly locate specific customers.
+- **Smart Filtering**: Find exactly what you're looking for by filtering customers by name, gender, or country. Perfect for when you need to quickly locate specific customers.
 
-**Easy Editing**: Update customer details with a simple, user-friendly modal. Change names, genders, or countries with just a few clicks.
+- **Easy Editing**: Update customer details with a simple, user-friendly modal. Change names, genders, or countries with just a few clicks.
 
-**Works Everywhere**: The app looks great and works perfectly whether you're on a desktop computer, tablet, or mobile phone.
+- **Works Everywhere**: The app looks great and works perfectly whether you're on a desktop computer, tablet, or mobile phone.
 
-**Instant Search**: Start typing and watch as the results update in real-time. No waiting, no reloading - just fast, efficient searching.
+- **Instant Search**: Start typing and watch as the results update in real-time. No waiting, no reloading - just fast, efficient searching.
 
-**Beautiful Design**: Enjoy a modern interface with smooth animations and pleasant visual elements that make using the app a pleasure.
+- **Beautiful Design**: Enjoy a modern interface with smooth animations and pleasant visual elements that make using the app a pleasure.
 
 ## Built With Modern Technology
 
