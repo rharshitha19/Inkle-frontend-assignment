@@ -146,19 +146,11 @@ The app automatically adapts to your device:
 - **Mobile**: Touch-friendly buttons and stacked layouts for easy one-handed use
 
 
-## 👨‍💻 Created With Care
+## Created With Care
 
 **Harshitha**  
 - GitHub: [@rharshitha19](https://github.com/rharshitha19)
 
-## Special Thanks
-
-- **Lucide** for the beautiful icons that enhance our interface
-- **Modern design communities** for inspiration and best practices
-- **MockAPI** for providing a free backend that lets us demonstrate the app's capabilities
-
----
-
 **Love this project? Give it a star on GitHub to show your support!**
 
-*Built with care and attention to detail* 
+ 
