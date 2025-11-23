@@ -55,7 +55,7 @@ Simply visit our live demo and start using the app immediately - no installation
 
 ## See It Live
 
-** Live Demo: [https://customer-management-system1.netlify.app/](https://customer-management-system1.netlify.app/)**
+Live Demo: [https://customer-management-system1.netlify.app/](https://customer-management-system1.netlify.app/)
 
 Want to deploy your own version? Run:
 ```bash
